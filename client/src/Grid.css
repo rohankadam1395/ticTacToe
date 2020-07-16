@@ -1,0 +1,12 @@
+#grid{
+      display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr 1fr;
+gap: 0px 0px;
+    justify-items: center;
+    align-items: center;
+        background-color: hotpink;
+margin-top: 0.2em;
+    }
+
+    

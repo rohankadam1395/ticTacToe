@@ -1,0 +1,22 @@
+#square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: black 2px solid;
+    background-color: rgb(41, 179, 121);
+    color: white;
+     width: 8vmax;
+     height: 7vmax;
+     font-size: 5vmax;
+}
+
+.grassImg{
+
+}
+#square:hover{
+    transform: scale(1.1);
+}
+p{
+    margin: 0;
+    padding: 0;
+}

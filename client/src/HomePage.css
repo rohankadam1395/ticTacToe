@@ -1,0 +1,17 @@
+#root{
+    text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+    background-color:bisque;
+    min-height: 100vh;
+    max-width: 100vw;
+    font-family:Roboto;
+    justify-content: flex-start;
+}
+h1{
+
+    }
+
+
+   
